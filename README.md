@@ -1,4 +1,4 @@
-<img src="https://github.com/katungi/katungi/blob/master/images/githubcoverpage.png">
+<img src="https://github.com/dennisoft/dennis.njunge/blob/master/images/githubcoverpage.png">
 
 ### Hi I am Dennis👋
 
