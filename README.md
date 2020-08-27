@@ -10,7 +10,10 @@ I am a DevOps Engineer with a passion for building cool stuff.
 
 - 🤡 Still trying to figure this open source thing out
 
-- 🤝 I’m looking to collaborate on any project that uses SpringBoot, React and NodeJS. Hit me up for any AWS consultation.
+- 🤝 I’m looking to collaborate on any project that uses SpringBoot, React or NodeJS.
+
+- 🥳 I can also consult on TIBCO and AWS Service.
+
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=dennisoft&show_icons=true&theme=radical)   
 
