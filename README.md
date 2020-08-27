@@ -4,7 +4,7 @@
 
 I am a DevOps Engineer with a passion for building cool stuff.
 
-- 👽 Previously art of the team that build Safricom's [Daraja](https://developer.safaricom.co.ke/) and [Fuliza](https://www.youtube.com/watch?v=866DzGiM8K4)
+- 👽 Previously part of the team that build Safricom's [Daraja](https://developer.safaricom.co.ke/) and [Fuliza](https://www.youtube.com/watch?v=866DzGiM8K4)
 
 - 🤸‍♂️ I’m currently a Cloud Support Engineer at Amazon Web Services, hopefully I will be an SDE very soon :)
 
